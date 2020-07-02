@@ -1,4 +1,4 @@
-class Solution {
+  class Solution {
     public List<String> topKFrequent(String[] words, int k) {
         List<String> res = new ArrayList<>();
         if (words == null || words.length == 0) {
